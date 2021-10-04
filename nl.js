@@ -830,8 +830,8 @@ windows.playerlist.unflag Weet je zeker dat je {0} wilt onmarkeren?
 windows.playerlist.punish Weet je zeker dat je actie wilt ondernemen op {0}?
 item.view.open Open Model Viewer
 item.view.more Meer Informatie
-item.sell.cant Dit Item Kan Niet Verkocht Worden.
-item.sell.quick Weet Je Zeker Dat Je Dit Snel Wilt Verkopen {0}?
+item.sell.cant Dit item kan niet verkocht worden.
+item.sell.quick Weet je zeker dat je dit snel wilt verkopen {0}?
 social.profile.stats Algemene Statistieken
 social.profile.class Class Statistieken
 social.profile.sales Verkopen
@@ -857,7 +857,7 @@ social.trades.history.head Trade Geschiedenis ({0})
 social.trades.decline Negeer Allemaal
 social.trades.message SCHAKEL RUILBERICHTEN IN IN JE INSTELLINGEN
 social.trades.warning Je Krijgt Geen Items Van Deze Trade!
-social.trades.accept Weet Je Zeker Dat Je Deze Trade Wilt Accepteren?
-stats.airdrops KR-Packages
+social.trades.accept Weet je zeker dat je deze trade wilt accepteren?
+stats.airdrops KR-pakketen
 settings.quality.flapAnim Sniper Flap Animatie
 `;
